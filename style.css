@@ -2,59 +2,6 @@
   margin: 0;
   padding: 0;
   border: 0;
-  box-sizing: border-box;
   font-family: sans-serif;
-  background: #efaae4;
   
-}
-
-.container {
-  margin: auto;
-  margin-top: 10px;
-  padding: 30px;
-  height: 700px;
-  width: 1250px;
-  background-color: white;
-  border-radius: 2px;
-  
-}
-
-.navBar{
-  display: flex;
-  text-align: center;
-}
-.navBarTwo{
-  float: right;
-}
-
-li {
-  list-style: none;
-  display: inline;
-}
-
-a{
-  color: #030303;
-  text-decoration: none;
-}
-
-
-.logo {
-  font-size: 2rem;
-  font-weight: bold;
-}
-
-.input-link{
-  border-radius: 30px;
-  height: 32px;
-  padding: 15px;
-  
-}
-
-.nav-link {
-  transition: 0.5s;
-  cursor: pointer;
-}
-
-.nav-link:hover {
-  color: #0088d2;
 }
